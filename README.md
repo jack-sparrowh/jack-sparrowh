@@ -3,7 +3,7 @@
   I'm a process engineer in a multinational company. Currently grabbing whatever seems interesting to me.
   
   Projects I want to write about and/or write a code for:
-  - Heat loss on piping
+  - Heat loss on piping with integral solution
   - Eigendecomposition of ODEs of transient heat transfer in plug flow
   - Sizing control valves in VFD-CV coupled systems
   - Constant volume heating for PRD sizing
