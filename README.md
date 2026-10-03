@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @jack-sparrowh,
-- 👀 I’m interested in Data Science and Machine Learning,
-- 🌱 I’m currently learning mathematics (calculus), linear algebra, statistics, python and ML libraries, and a way of working and thinking in the world of data science,
-- 💞️ I’m looking to get some working experience (internship), as it would speed up the learning process of getting better each day.
+  I'm a process engineer in a multinational company. Currently grabbing whatever seems interesting to me.
+  Projects I want to write about and/or write a code for:
+  - Heat loss on piping
+  - Sizing control valves in VFD-CV coupled systems
+  - Constant volume heating for PRD sizing
+  - All things related to two phase relief
+  - Minimal work of multistage compressors
 
 <!---
 jack-sparrowh/jack-sparrowh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
